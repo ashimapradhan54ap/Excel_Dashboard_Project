@@ -17,7 +17,6 @@ To analyze healthcare data using Microsoft Excel and create an interactive dashb
 
 ## 📊 Dashboard Preview
 
-> *(Add the Dashboard.png image here after uploading it to the repository.)*
 
 ![Dashboard](Dashboard.png)
 
